@@ -32,5 +32,4 @@ At the same time, massive data breaches at various credit institutions, retailer
 5. Payment amount
 6. Transaction information
  
-
 When a transaction falls outside the scope of normal activity, the anomaly detection tool will then alert the card issuer and, in some cases, the user. Depending on the transaction details and risk score assigned to the action, these fraud detection systems may flag the purchase for review or put a hold on the transaction until the user verifies their activity.
