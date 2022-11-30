@@ -21,7 +21,8 @@ At the same time, massive data breaches at various credit institutions, retailer
 ### What is credit card fraud detection?
  Credit card fraud detection is the collective term for the policies, tools, methodologies, and practices that credit card companies and financial institutions take to combat identity fraud and stop fraudulent transactions. In recent years, as the amount of data has exploded and the number of payment card transactions has skyrocketed, fraud detection has become largely digitized and automated. Most modern solutions leverage artificial intelligence (AI) and machine learning (ML) to manage data analysis, predictive modeling, decision-making, fraud alerts and remediation activity that occur when individual instances of credit card fraud are detected.  
 
-‍#### Anomaly detection
+‍### Anomaly detection:
+
  Anomaly detection is the process of analyzing massive amounts of data points from both internal and external sources to produce a framework of “normal” activity for each individual user and establish regular patterns in their activity. Data used to create the user profile includes:
 
 1. Purchase history and other historical data
