@@ -33,3 +33,17 @@ At the same time, massive data breaches at various credit institutions, retailer
 6. Transaction information
  
 When a transaction falls outside the scope of normal activity, the anomaly detection tool will then alert the card issuer and, in some cases, the user. Depending on the transaction details and risk score assigned to the action, these fraud detection systems may flag the purchase for review or put a hold on the transaction until the user verifies their activity. Credit: inscribe.ai
+
+
+<h3>How machine learning helps with fraud detection:</h3>
+The key objective of any credit card fraud detection system is to identify suspicious events and report them to an analyst while letting normal transactions be automatically processed.
+
+For years, financial institutions have been entrusting this task to rule-based systems that employ rule sets written by experts. But now they increasingly turn to a machine learning approach, as it сan bring significant improvements to the process.
+
+1. Higher accuracy of fraud detection. Compared to rule-based solutions, machine learning tools have higher precision and return more relevant results as they consider multiple additional factors. This is because ML technologies can consider many more data points, including the tiniest details of behavior patterns associated with a particular account.
+
+2. Less manual work needed for additional verification. Enhanced accuracy leads reduces the burden on analysts. “People are unable to check all transactions manually, even if we are talking about a small bank,” Alexander Konduforov, data science competence leader at AltexSoft, explains. “ML-driven systems filter out, roughly speaking, 99.9 percent of normal patterns leaving only 0.1 percent of events to be verified by experts.”
+
+3. Fewer false declines. False declines or false positives happen when a system identifies a legitimate transaction as suspicious and wrongly cancels it.
+
+4. Ability to identify new patterns and adapt to changes. Unlike rule-based systems, ML algorithms are aligned with a constantly changing environment and financial conditions. They enable analysts to identify new suspicious patterns and create new rules to prevent new types of scams.
