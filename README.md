@@ -16,16 +16,10 @@ Types of credit card fraud
 ### Advances in card security:
  Since 2015, credit card fraud has shifted dramatically toward card-not-present crime. This is largely because of EMV (Europay, MasterCard and Visa) chip technology introduced by major credit card companies around the world.  Sometimes referred to as chip and PIN, EMV equips credit and debit cards with a microchip that can be inserted into a card reader or scanned via contactless payment method to process the transaction. This method is far more secure in that criminals can no longer use card skimmers to capture data from the magnetic strip of the card and produce a clone.
 
-
-
-
 At the same time, massive data breaches at various credit institutions, retailers and other businesses have created a black market for compromised credit card data and sensitive information. Cybercriminals that have stolen this information often post it on the dark web, making it available for purchase by other individuals. The availability of compromised card information, coupled with a rise in online shopping, has dramatically increased card-not-present credit card fraud. At present, there is no technological solution similar to an EMV microchip that can significantly reduce card-not-present fraud. Instead, the burden is on both credit card issuers and merchants to employ stronger digital security measures to identify and block fraudulent transactions in real-time.
 
 ### What is credit card fraud detection?
  Credit card fraud detection is the collective term for the policies, tools, methodologies, and practices that credit card companies and financial institutions take to combat identity fraud and stop fraudulent transactions. In recent years, as the amount of data has exploded and the number of payment card transactions has skyrocketed, fraud detection has become largely digitized and automated. Most modern solutions leverage artificial intelligence (AI) and machine learning (ML) to manage data analysis, predictive modeling, decision-making, fraud alerts and remediation activity that occur when individual instances of credit card fraud are detected.  
-
-
-
 
 ‍#### Anomaly detection
  Anomaly detection is the process of analyzing massive amounts of data points from both internal and external sources to produce a framework of “normal” activity for each individual user and establish regular patterns in their activity. Data used to create the user profile includes:
